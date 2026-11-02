@@ -7,7 +7,7 @@
 Interaktive Lehr- und Erhebungsplattform für ein experimentelles Paradigma zum universitären Peer-Review: Eine Person erstellt aus vier Quellen ein Entscheidungsmemo; eine zweite Person prüft und überarbeitet es im strukturierten Peer-Review.
 
 > **Live-Instanz:** [quellenwerkstatt-demo.onrender.com](https://quellenwerkstatt-demo.onrender.com)  
-> *(Statische Single-Page-Application ohne Backend, gehostet in Frankfurt a. M.)
+> *(Statische Single-Page-Application ohne Backend, gehostet in Frankfurt a. M.)*
 
 ---
 
@@ -106,7 +106,7 @@ Wenn Sie diesen Prototyp für Lehr- oder Forschungszwecke nutzen:
   title = {Quellenwerkstatt: Dyadisches Peer-Review-Paradigma für Mensch-KI-Interaktion und CSCW},
   year = {2026},
   publisher = {GitHub},
-  howpublished = https://github.com/TechWorld-Stack/quellenwerkstatt-demo
+  howpublished = {\url{https://github.com/TechWorld-Stack/quellenwerkstatt-demo}}
 }
 
 **Kontakt:** Christian Grahl · Promotionsvorhaben *Dominant ChatGPT Reliance*
