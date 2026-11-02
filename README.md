@@ -101,13 +101,15 @@ Das Paradigma operationalisiert die Kernfragen des DCR-Frameworks: Wo entsteht d
 
 Wenn Sie diesen Prototyp für Lehr- oder Forschungszwecke nutzen:
 
+```bibtex
 @misc{grahl2026quellenwerkstatt,
-  author = {Grahl, Christian},
-  title = {Quellenwerkstatt: Dyadisches Peer-Review-Paradigma für Mensch-KI-Interaktion und CSCW},
-  year = {2026},
-  publisher = {GitHub},
+  author       = {Grahl, Christian},
+  title        = {Quellenwerkstatt: Dyadisches Peer-Review-Paradigma für Mensch-KI-Interaktion und CSCW},
+  year         = {2026},
+  publisher    = {GitHub},
   howpublished = {\url{https://github.com/TechWorld-Stack/quellenwerkstatt-demo}}
 }
+```
 
 **Kontakt:** Christian Grahl · Promotionsvorhaben *Dominant ChatGPT Reliance*
 
