@@ -111,4 +111,4 @@ Wenn Sie diesen Prototyp für Lehr- oder Forschungszwecke nutzen:
 
 **Kontakt:** Christian Grahl · Promotionsvorhaben *Dominant ChatGPT Reliance*
 
-**Lizenz:** [MIT License](https://www.google.com/search?q=LICENSE)
+**Lizenz:** [MIT License]([https://www.google.com/search?q=LICENSE](https://opensource.org/license/mit))
