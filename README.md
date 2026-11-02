@@ -5,16 +5,16 @@
 [![Zero Dependencies](https://img.shields.io/badge/Dependencies-0%20(Vanilla%20JS)-green)](#technische-architektur--datenschutz)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Interaktive Lehr- und Erhebungsplattform für ein experimentelles Paradigma zum universitären Peer-Review: Eine Person erstellt aus vier Quellen ein Entscheidungsmemo; eine zweite Person prüft und überarbeitet es im strukturierten Peer-Review[cite: 38].
+Interaktive Lehr- und Erhebungsplattform für ein experimentelles Paradigma zum universitären Peer-Review: Eine Person erstellt aus vier Quellen ein Entscheidungsmemo; eine zweite Person prüft und überarbeitet es im strukturierten Peer-Review.
 
 > **Live-Instanz:** [quellenwerkstatt-demo.onrender.com](https://quellenwerkstatt-demo.onrender.com)  
-> *(Statische Single-Page-Application ohne Backend, gehostet in Frankfurt a. M.)*[cite: 38]
+> *(Statische Single-Page-Application ohne Backend, gehostet in Frankfurt a. M.)
 
 ---
 
 ## Quickstart (Lokale Ausführung)
 
-Das gesamte Tool besteht aus einer einzigen Datei ohne Build-Schritt oder externe Abhängigkeiten[cite: 38]:
+Das gesamte Tool besteht aus einer einzigen Datei ohne Build-Schritt oder externe Abhängigkeiten:
 
 ```bash
 # Repository klonen
