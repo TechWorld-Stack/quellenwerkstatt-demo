@@ -18,7 +18,7 @@ Das gesamte Tool besteht aus einer einzigen Datei ohne Build-Schritt oder extern
 
 ```bash
 # Repository klonen
-git clone [https://github.com/TechWorld-Stack/quellenwerkstatt-demo.git](https://github.com/TechWorld-Stack/quellenwerkstatt-demo.git)
+git clone https://github.com/TechWorld-Stack/quellenwerkstatt-demo.git
 
 # Datei direkt im Browser öffnen
 cd quellenwerkstatt-demo
@@ -37,12 +37,6 @@ Zwei Unterstützungsbedingungen unterscheiden sich ausschließlich in der Erstel
 
 * **CSCW-Perspektive:** Informationstransparenz (*Workspace Awareness*), Fehlerfortpflanzung und nachgelagerter Verifikationsaufwand im gemeinsamen Endmemo.
 
-
-
-```
-[4 Quellen] ───► [Bedingung A (Substitute) ODER B (Scaffold)] ───► [Standardisierte Übergabe] ───► [Peer-Review & End-Memo]
-
-```
 
 ### Die experimentellen Bedingungen
 
@@ -136,27 +130,18 @@ Das Paradigma operationalisiert die Kernfragen des DCR-Frameworks: Wo entsteht d
 
 
 
----
-
 ## Citation & Kontakt
 
 Wenn Sie diesen Prototyp für Lehr- oder Forschungszwecke nutzen:
 
-```bibtex
 @misc{grahl2026quellenwerkstatt,
   author = {Grahl, Christian},
   title = {Quellenwerkstatt: Dyadisches Peer-Review-Paradigma für Mensch-KI-Interaktion und CSCW},
   year = {2026},
   publisher = {GitHub},
-  howpublished = {\url{[https://github.com/TechWorld-Stack/quellenwerkstatt-demo](https://github.com/TechWorld-Stack/quellenwerkstatt-demo)}}
+  howpublished = https://github.com/TechWorld-Stack/quellenwerkstatt-demo
 }
-
-```
 
 **Kontakt:** Christian Grahl · Promotionsvorhaben *Dominant ChatGPT Reliance*
 
 **Lizenz:** [MIT License](https://www.google.com/search?q=LICENSE)
-
-```
-
-```
