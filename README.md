@@ -17,8 +17,7 @@ Das gesamte Tool besteht aus einer einzigen Datei ohne Build-Schritt oder Abhän
 
 ```bash
 # Repository klonen
-git clone [https://github.com/TechWorld-Stack/quellenwerkstatt-demo.git](https://github.com/TechWorld-Stack/quellenwerkstatt-demo.git)
-
+git clone https://github.com/TechWorld-Stack/quellenwerkstatt-demo.git
 # Datei direkt im Browser öffnen
 cd quellenwerkstatt-demo
 open index.html # unter macOS (unter Windows: start index.html / Linux: xdg-open index.html)
